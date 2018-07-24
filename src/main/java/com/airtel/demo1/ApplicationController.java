@@ -13,7 +13,7 @@ public class ApplicationController {
     @RequestMapping(name = "/index",method = RequestMethod.GET)
     public String index() throws Exception{
 
-        demoService.springReTryTest();
-        return "Index called";
+//        demoService.springReTryTest();
+        return "Index called From Application One";
     }
 }
