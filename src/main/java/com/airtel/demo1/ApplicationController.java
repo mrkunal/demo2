@@ -14,8 +14,8 @@ public class ApplicationController {
     @RequestMapping(name = "/index",method = RequestMethod.GET)
     public String index() throws Exception{
 
-        System.out.println("Index Action called in controller at"+(new Date()).toString());
+        System.out.println("Index Action called in controller DOCKER 2 at"+(new Date()).toString());
 //        demoService.springReTryTest();
-        return "Index called From Application One";
+        return "Index called From Application DOCKER 2";
     }
 }
