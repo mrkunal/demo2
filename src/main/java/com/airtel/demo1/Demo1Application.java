@@ -7,7 +7,6 @@ import org.springframework.retry.annotation.EnableRetry;
 @SpringBootApplication
 @EnableRetry
 public class Demo1Application {
-
 	public static void main(String[] args) {
 		SpringApplication.run(Demo1Application.class, args);
 	}
