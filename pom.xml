@@ -8,7 +8,7 @@
 	<!--<version></version>-->
 	<packaging>war</packaging>
 
-	<name>demo1</name>
+	<name>demo12</name>
 	<description>Demo project for Spring  sss Boot</description>
 
 	<parent>
