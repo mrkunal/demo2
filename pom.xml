@@ -8,8 +8,8 @@
 	<!--<version></version>-->
 	<packaging>war</packaging>
 
-	<name>demo1</name>
-	<description>Demo project for Spring Boot</description>
+	<name>demo2</name>
+	<description>Demo2project for Spring  sss Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
